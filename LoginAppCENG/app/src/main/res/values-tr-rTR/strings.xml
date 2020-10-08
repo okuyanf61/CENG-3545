@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İlk Uygulamam</string>
+    <string name="my_first_android">İlk Android</string>
+    <string name="application">Uygulamam</string>
+    <string name="butterfly">kelebek</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="password">Parola</string>
+    <string name="login">Giriş</string>
+</resources>
